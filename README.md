@@ -22,7 +22,7 @@ I enjoy getting feedback from friends - or programmers I'm building friendships 
 
 I learned this concept from reading books by Stephen R. Covey, probably [The Seven Habits of Highly Effective People](https://www.amazon.com/dp/B01069X4H0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1). 
 
-In a nutshell, this means that sometimes success comes at a price. For example, it's not unusual for a project to get harder maintain as it grows in popularity: 
+In a nutshell, this means that sometimes success comes at a price. For example, it's not unusual for a project to get harder to maintain as it grows in popularity: 
 
 - More bugs and edge cases crop up
 - More issues are created
