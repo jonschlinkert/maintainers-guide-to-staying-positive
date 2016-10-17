@@ -100,3 +100,6 @@ Here are the times when the above things are okay:
 - You are paying the maintainer and have a service level agreement that gives you the right to do these things
 - Never
 
+## When all else fails
+
+Consider getting yourself [one of these](https://twitter.com/mark_essig/status/787832689487470596).
