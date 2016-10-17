@@ -1,4 +1,4 @@
-# maintainers-guide-to-staying-positive
+# Maintainers Guide to Staying Positive
 
 > Don't let the trolls get you down! Use this reference to avoid open-source burnout and keep doing what you love: writing code!
 
