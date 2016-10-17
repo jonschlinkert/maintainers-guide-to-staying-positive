@@ -43,7 +43,7 @@ I know a few popular maintainers of highly popular projects who have either comp
 
 There is a world of difference between a disgruntled user who expresses their frustration in a reasonable way, and a user who seems to only have their own self-interests in mind and wants to make sure that you pay attention to them by insulting you or making disparaging comments.
 
-If you require clarification on this, or find that you need help understanding the difference between a constructive comment and an antagonistic comment, or you feel inclined to debate what "negative comment" means, then you are most likely part of the problem and the community would be better off if you avoid making any comments at all. 
+If you require clarification on this, or find that you need help understanding the difference between a constructive comment and an antagonistic comment, or you feel inclined to debate what "negative comment" means, then please consider reading [this section](#help-or-do-no-harm).
 
 ## Dos and don'ts
 
@@ -69,3 +69,32 @@ Sometimes attitude isn't enough and we need to take action. Here are some things
 1. **Block negative users**: When you find yourself repeatedly dealing with a troll, there is no shame in permanently shedding the negativity by blocking the user completely. Moreover, you are under no obligation to explain yourself to the user. 
 1. **Delete inappropriate comments**: If a comment is antagonistic, disparaging to maintainers, distracts from the actual issue at hand, or otherwise does nothing to further progress on an issue, it goes without saying that the comment should be deleted. There is no contract, written or otherwise, that obligates you to retain comments like this. Whatever sense of integrity you feel you might lose from deleting the comment should be regained by thinking about the impact the comment has on your community - and the spirit of collaboration - as a whole. 
 1. **Move on**: Don't linger on negative things. Stay productive and get refocused on things that are positive at best, or at least neutral if necessary.
+
+## Help, or do no harm
+
+A mentor once said to me, "if I cannot help, I will at least _do no harm_". I try to live by this rule. 
+
+If you find that you are so frustrated about a bug you're dealing with that you can barely see strait, and you want to make sure the project's maintainers understand what you're going through, consider the following:
+
+1. The (extreme) vast majority of open source projects are maintained by a single individual (I don't have stats on this, but I have a lot of experience in open source and I'd wager it's in the high 99th percentile. Big teams with lots of development resources are very, very few and far between)
+1. Based on the first point, it's easy to reason that the vast majority decisions made on the vast majority of open source projects are at the discretion of a single individual
+1. Based on the previous points it easy to reason that innovation, bug fixes and other improvements on these projects will only happen when a single individual wants them to
+
+Now, we can take this information and do with it what we want. If you absolutely need something to be fixed, and it isn't getting fixed, you have options. The most obvious of which are:
+
+- fork the project and maintain it yourself
+- create your own library (and of course be sure to give proper attribution if you base your code on another library)
+
+If you don't have the time, knowledge, or inclination to do either of those things, unfortunately, that's just too bad. It's your problem, not the maintainers. The sooner you get over this, the happier and more productive everyone will be. Under no circumstances is it acceptable to berate a project's maintainers because you aren't getting what you want. 
+
+- It's not okay to "call them out" for taking too long
+- It's not okay to point to other issues that aren't being resolved, "just to make your point". This just adds insult to injury. 
+- It's not okay to sling personal insults when you feel like you're being ignored
+
+**Exceptions to the rule**
+
+Here are the times when the above things are okay:
+
+- You are paying the maintainer and have a service level agreement that gives you the right to do these things
+- Never
+
