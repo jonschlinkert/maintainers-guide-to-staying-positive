@@ -72,6 +72,8 @@ Sometimes attitude isn't enough and we need to take action. Here are some things
 
 ## Help, or do no harm
 
+This section is for those who are having a hard time keeping their negativity to themselves.
+
 A mentor once said to me, "if I cannot help, I will at least _do no harm_". I try to live by this rule. 
 
 If you find that you are so frustrated about a bug you're dealing with that you can barely see strait, and you want to make sure the project's maintainers understand what you're going through, consider the following:
