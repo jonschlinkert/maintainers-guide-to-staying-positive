@@ -76,7 +76,7 @@ This section is for those who just can't find a way to stay positive, and are ha
 
 A mentor once said to me, "if I cannot help, I will at least _do no harm_". I now try to live by this rule, and I suggest you do too. It's only practical. You don't have to be [half-Betazoid](https://en.wikipedia.org/wiki/Deanna_Troi) to understand that other people are more likely to go out of their way to help you when you're nice to them. After all, just because you experienced a bug doesn't mean that it's a crucial bug, or that it's urgent. Only the maintainers have the perspective to make this call. Good collaborators recognize this and do what they can to help - or stay out of the way if they can't.
 
-But if you find that you are so frustrated about a bug you're dealing with that you can barely see strait, and you want to make sure the project's maintainers understand what you're going through, consider the following:
+But if you find that you are so frustrated about a bug you're dealing with that you can barely see straight, and you want to make sure the project's maintainers understand what you're going through, consider the following:
 
 1. The (extreme) vast majority of open source projects are maintained by a single individual (I don't have stats on this, but I have a lot of experience in open source and I'd wager it's in the high 99th percentile. Big teams with lots of development resources are very, very few and far between)
 1. Based on the first point, it's easy to reason that the vast majority decisions made on the vast majority of open source projects are at the discretion of a single individual
