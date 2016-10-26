@@ -2,13 +2,32 @@
 
 > Don't let the trolls get you down! Use this reference to avoid open-source burnout and keep doing what you love: writing code!
 
-## What is this?
+* [Preamble](#preamble)
+  - [What is this?](#what-is-this)
+  - [Why did I write this?](#why-did-i-write-this)
+* [Nothing fails like success](#nothing-fails-like-success)
+* [Do's and don'ts](#dos-and-donts)
+* [Action items](#action-items)
+* [Help, or do no harm](#help-or-do-no-harm)
+* [When all else fails](#when-all-else-fails)
+* [Author](#author)
+* [License](#license)
+
+_(You might also be interested in the [Guide to Idiomatic Contributing](https://github.com/jonschlinkert/idiomatic-contributing))_
+
+## Preamble
+
+This guide was written by me, [Jon Schlinkert](https://github.com/jonschlinkert), programmer, public speaker and author of more than 1,100 code projects. I have published code projects in several different languages, but most are JavaScript. 60+ of my projects receive more than 1 million downloads/month, with the total exceeding [320 million downloads/month](https://gist.github.com/bcoe/dcc961b869bbf6685002). This brief guide is a distillation of my experiences as a maintainer. 
+
+If you find this useful (and I hope you do!), please consider following me on [github](https://github.com/jonschlinkert) or [twitter](http://twitter.com/jonschlinkert) to receive updates about this and other projects I maintain.
+
+### What is this about?
 
 As it relates to open source programming, this is my own personal reference to help me stay positive when I'm having a bad day, or for whatever reason it's more difficult than usual to stay objective.
 
 Whether it's due to a bad decision I've made myself, or I'm reacting to unnecessarily harsh or negative comments made by a user, I thought it would be nice to have a guide to help me re-center when I'm not at my best. Maybe others will find this useful too. 
 
-## Why did I write this?
+### Why did I write this?
 
 > I want to spend more time doing what I love, and less time doing things that I don't love.
 
@@ -103,3 +122,31 @@ Here are the times when the above things are okay:
 ## When all else fails
 
 Consider getting yourself [one of these](https://twitter.com/mark_essig/status/787832689487470596).
+
+## Contributors
+
+Thanks to the following devs who have helped make this guide better in some way.
+
+<!-- if you contribute, thank you! and please update this list with your information. You can update this list manually, or do `npm i add-contributors -g && add-contributors`. Note that GitHub's API doesn't always update the list of contributors immediately -->
+
+<!-- contributors -->
+| **Commits** | **Contributor** |  
+| --- | --- |  
+| 12 | [jonschlinkert](https://github.com/jonschlinkert) |  
+| 1  | [Kissaki](https://github.com/Kissaki) |  
+| 1  | [doowb](https://github.com/doowb) |  
+| 1  | [martinvd](https://github.com/martinvd) |  
+| 1  | [philmiller-charmworks](https://github.com/philmiller-charmworks) |
+<!-- endcontributors -->
+
+## Author
+
+**Jon Schlinkert**
+
+* [github/jonschlinkert](https://github.com/jonschlinkert)
+* [twitter/jonschlinkert](http://twitter.com/jonschlinkert)
+
+## License
+
+Copyright © 2016, [Jon Schlinkert](https://github.com/jonschlinkert).
+Released under the [CC by 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode).
