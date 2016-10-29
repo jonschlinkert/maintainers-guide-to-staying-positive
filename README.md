@@ -3,7 +3,7 @@
 > Don't let the trolls get you down! Use this reference to avoid open-source burnout and keep doing what you love: writing code!
 
 * [Preamble](#preamble)
-  - [What is this?](#what-is-this)
+  - [What is this?](#what-is-this-about)
   - [Why did I write this?](#why-did-i-write-this)
 * [Nothing fails like success](#nothing-fails-like-success)
 * [Do's and don'ts](#dos-and-donts)
