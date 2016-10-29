@@ -15,6 +15,14 @@
 
 _(You might also be interested in the [Guide to Idiomatic Contributing](https://github.com/jonschlinkert/idiomatic-contributing))_
 
+<br>
+<br>
+<br>
+![separator](https://cloud.githubusercontent.com/assets/383994/19832229/f6b5922c-9deb-11e6-9cc5-fa09032bf8ef.png)
+<br>
+<br>
+<br>
+
 ## Preamble
 
 This guide was written by me, [Jon Schlinkert](https://github.com/jonschlinkert), programmer, public speaker and author of more than 1,100 code projects. I have published code projects in several different languages, but most are JavaScript. 60+ of my projects receive more than 1 million downloads/month, with the total exceeding [320 million downloads/month](https://gist.github.com/bcoe/dcc961b869bbf6685002). This brief guide is a distillation of my experiences as a maintainer. 
@@ -36,6 +44,14 @@ I really, honestly love programming. So much so that I look forward to getting o
 I also love collaborating, exchanging ideas, learning better and faster ways to accomplish things that I'm already familiar with or, even better, learning completely new things that broaden my horizons as a developer or person. 
 
 I enjoy getting feedback from friends - or programmers I'm building friendships with on GitHub, hearing their thoughts about my code and what I could have improved. Mistakes I made, or how something could be optimized. I believe this is one of the fastest ways to improve. Not to mention, it's a great way to build lasting relationships.
+
+<br>
+<br>
+<br>
+![separator](https://cloud.githubusercontent.com/assets/383994/19832229/f6b5922c-9deb-11e6-9cc5-fa09032bf8ef.png)
+<br>
+<br>
+<br>
 
 ## Nothing Fails Like Success
 
@@ -64,6 +80,14 @@ There is a world of difference between a disgruntled user who expresses their fr
 
 If you require clarification on this, or find that you need help understanding the difference between a constructive comment and an antagonistic comment, or you feel inclined to debate what "negative comment" means, then please consider reading [this section](#help-or-do-no-harm).
 
+<br>
+<br>
+<br>
+![separator](https://cloud.githubusercontent.com/assets/383994/19832229/f6b5922c-9deb-11e6-9cc5-fa09032bf8ef.png)
+<br>
+<br>
+<br>
+
 ## Dos and don'ts
 
 If you find yourself in need a morale boost, here are some tips for staying positive:
@@ -81,6 +105,14 @@ If you find yourself in need a morale boost, here are some tips for staying posi
 1. **Don't let others determine how you feel**: You are in control of your own emotions and your own reactions. No one makes you feel a certain way. If you are feeling heated in response to something someone has said, take some time to reflect on the situation.
 1. **Don't comment until you're rational**: Sometimes it feels like you need to "put a fire out" before it spreads. Whether you need to respond to a troll, or respond to a flood of bug-related comments, don't say anything unless you can do it rationally. How does this tip help you stay positive? Even if you need to act quickly, saying something insensitive or inappropriate can only make things worse. Doing this will definitely not help you keep a positive attitude, and it won't help your teammates or contributors either.
 
+<br>
+<br>
+<br>
+![separator](https://cloud.githubusercontent.com/assets/383994/19832229/f6b5922c-9deb-11e6-9cc5-fa09032bf8ef.png)
+<br>
+<br>
+<br>
+
 ## Action items
 
 Sometimes attitude isn't enough and we need to take action. Here are some things that, while extreme, are sometimes necessary in order to keep a positive outlook:
@@ -88,6 +120,14 @@ Sometimes attitude isn't enough and we need to take action. Here are some things
 1. **Block negative users**: When you find yourself repeatedly dealing with a troll, there is no shame in permanently shedding the negativity by blocking the user completely. Moreover, you are under no obligation to explain yourself to the user. 
 1. **Delete inappropriate comments**: If a comment is antagonistic, disparaging to maintainers, distracts from the actual issue at hand, or otherwise does nothing to further progress on an issue, it goes without saying that the comment should be deleted. There is no contract, written or otherwise, that obligates you to retain comments like this. Whatever sense of integrity you feel you might lose from deleting the comment should be regained by thinking about the impact the comment has on your community - and the spirit of collaboration - as a whole. 
 1. **Move on**: Don't linger on negative things. Stay productive and get refocused on things that are positive at best, or at least neutral if necessary.
+
+<br>
+<br>
+<br>
+![separator](https://cloud.githubusercontent.com/assets/383994/19832229/f6b5922c-9deb-11e6-9cc5-fa09032bf8ef.png)
+<br>
+<br>
+<br>
 
 ## Help, or do no harm
 
@@ -123,7 +163,17 @@ Here are the times when the above things are okay:
 
 Consider getting yourself [one of these](https://twitter.com/mark_essig/status/787832689487470596).
 
-## Contributors
+<br>
+<br>
+<br>
+![separator](https://cloud.githubusercontent.com/assets/383994/19832229/f6b5922c-9deb-11e6-9cc5-fa09032bf8ef.png)
+<br>
+<br>
+<br>
+
+## About
+
+### Contributors
 
 Thanks to the following devs who have helped make this guide better in some way.
 
@@ -139,14 +189,14 @@ Thanks to the following devs who have helped make this guide better in some way.
 | 1  | [philmiller-charmworks](https://github.com/philmiller-charmworks) |
 <!-- endcontributors -->
 
-## Author
+### Author
 
 **Jon Schlinkert**
 
 * [github/jonschlinkert](https://github.com/jonschlinkert)
 * [twitter/jonschlinkert](http://twitter.com/jonschlinkert)
 
-## License
+### License
 
 Copyright © 2016, [Jon Schlinkert](https://github.com/jonschlinkert).
 Released under the [CC by 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode).
