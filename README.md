@@ -190,14 +190,15 @@ Thanks to the following devs who have helped make this guide better in some way.
 <!-- contributors -->
 | **Commits** | **Contributor** |  
 | --- | --- |  
-| 12 | [jonschlinkert](https://github.com/jonschlinkert) |  
+| 17 | [jonschlinkert](https://github.com/jonschlinkert) |  
+| 2  | [rnicholus](https://github.com/rnicholus) |  
 | 1  | [Kissaki](https://github.com/Kissaki) |  
 | 1  | [doowb](https://github.com/doowb) |  
 | 1  | [martinvd](https://github.com/martinvd) |  
-| 1  | [philmiller-charmworks](https://github.com/philmiller-charmworks) |
-<!-- endcontributors -->
+| 1  | [philmiller-charmworks](https://github.com/philmiller-charmworks) |  
 
 Note: If you'd like to see the _most_ up-to-date and complete contributor information, please visit the [contributors graph](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive/graphs/contributors).
+<!-- endcontributors -->
 
 ### Author
 
@@ -210,3 +211,8 @@ Note: If you'd like to see the _most_ up-to-date and complete contributor inform
 
 Copyright © 2016, [Jon Schlinkert](https://github.com/jonschlinkert).
 Released under the [CC by 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+
+Note: If you'd like to see the _most_ up-to-date and complete contributor information, please visit the [contributors graph](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive/graphs/contributors).
+
+Note: If you'd like to see the _most_ up-to-date and complete contributor information, please visit the [contributors graph](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive/graphs/contributors).
