@@ -197,6 +197,8 @@ Thanks to the following devs who have helped make this guide better in some way.
 | 1  | [philmiller-charmworks](https://github.com/philmiller-charmworks) |
 <!-- endcontributors -->
 
+Note: If you'd like to see the _most_ up-to-date and complete contributor information, please visit the [contributors graph](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive/graphs/contributors).
+
 ### Author
 
 **Jon Schlinkert**
