@@ -183,19 +183,7 @@ Consider getting yourself [one of these](https://twitter.com/mark_essig/status/7
 
 ### Contributors
 
-Thanks to the following devs who have helped make this guide better in some way.
-
-<!-- if you contribute, thank you! and please update this list with your information. You can update this list manually, or do `npm i add-contributors -g && add-contributors`. Note that GitHub's API doesn't always update the list of contributors immediately -->
-
-<!-- contributors -->
-| **Commits** | **Contributor** |  
-| --- | --- |  
-| 12 | [jonschlinkert](https://github.com/jonschlinkert) |  
-| 1  | [Kissaki](https://github.com/Kissaki) |  
-| 1  | [doowb](https://github.com/doowb) |  
-| 1  | [martinvd](https://github.com/martinvd) |  
-| 1  | [philmiller-charmworks](https://github.com/philmiller-charmworks) |
-<!-- endcontributors -->
+Thanks to [all of devs who have helped make this guide better in some way](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive/graphs/contributors).
 
 ### Author
 
