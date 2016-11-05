@@ -88,7 +88,7 @@ If you require clarification on this, or find that you need help understanding t
 <br>
 <br>
 
-## Dos and don'ts
+## Do's and don'ts
 
 If you find yourself in need a morale boost, here are some tips for staying positive:
 
