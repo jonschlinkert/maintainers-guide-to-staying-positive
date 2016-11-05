@@ -211,8 +211,3 @@ Note: If you'd like to see the _most_ up-to-date and complete contributor inform
 
 Copyright © 2016, [Jon Schlinkert](https://github.com/jonschlinkert).
 Released under the [CC by 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode).
-
-
-Note: If you'd like to see the _most_ up-to-date and complete contributor information, please visit the [contributors graph](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive/graphs/contributors).
-
-Note: If you'd like to see the _most_ up-to-date and complete contributor information, please visit the [contributors graph](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive/graphs/contributors).
