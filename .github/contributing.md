@@ -50,8 +50,3 @@ Here are some tips for creating idiomatic issues. Taking just a little bit extra
 - Learn about [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). And if you want to really go above and beyond, read [mastering markdown](https://guides.github.com/features/mastering-markdown/).
 - use backticks to wrap code. This ensures that code will retain its format, making it much more readable to others
 - use syntax highlighting by adding the correct language name after the first "code fence"
-
-
-[node-glob]: https://github.com/isaacs/node-glob
-[micromatch]: https://github.com/jonschlinkert/micromatch
-[so]: http://stackoverflow.com/questions/tagged/maintainers-guide-to-staying-positive
