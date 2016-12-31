@@ -25,9 +25,11 @@ _(You might also be interested in the [Guide to Idiomatic Contributing](https://
 
 ## Preamble
 
-This guide was written by me, [Jon Schlinkert](https://github.com/jonschlinkert), programmer, public speaker and author of more than 1,100 code projects. I have published code projects in several different languages, but most are JavaScript. 60+ of my projects receive more than 1 million downloads/month, with the total exceeding [320 million downloads/month](https://gist.github.com/bcoe/dcc961b869bbf6685002). This brief guide is a distillation of my experiences as a maintainer. 
+This guide was written by me, [Jon Schlinkert](#author), programmer, public speaker and author of more than 1,100 code projects. I have published code projects in several different languages, but most are JavaScript. 60+ of my projects receive more than 1 million downloads/month, with the total exceeding [380 million downloads/month](https://gist.github.com/bcoe/dcc961b869bbf6685002). This brief guide is a distillation of my experiences as a maintainer. 
 
 If you find this useful (and I hope you do!), please consider following me on [github](https://github.com/jonschlinkert) or [twitter](http://twitter.com/jonschlinkert) to receive updates about this and other projects I maintain.
+
+You might also be interested in [other guides I've written](#other-guides).
 
 ### What is this about?
 
@@ -200,12 +202,22 @@ Thanks to the following devs who have helped make this guide better in some way.
 Note: If you'd like to see the _most_ up-to-date and complete contributor information, please visit the [contributors graph](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive/graphs/contributors).
 <!-- endcontributors -->
 
+### Other guides
+
+You might also find these guides useful:
+
+- [Guide to Staying Productive](https://github.com/jonschlinkert/guide-to-staying-productive/)
+- [Idiomatic Contributing](https://github.com/jonschlinkert/idiomatic-contributing/)
+
 ### Author
 
 **Jon Schlinkert**
 
-* [github/jonschlinkert](https://github.com/jonschlinkert)
-* [twitter/jonschlinkert](http://twitter.com/jonschlinkert)
+* [github/jonschlinkert](https://github.com/jonschlinkert): follow me on GitHub for project updates
+* [twitter/jonschlinkert](https://twitter.com/jonschlinkert): follow me on Twitter for the latest news
+* [linkedin/jonschlinkert](https://linkedin.com/in/jonschlinkert): connect with me on LinkedIn
+
+If you'd like to get in touch regarding a speaking engagement or consulting opportunity, please use the email address on my GitHub profile. Thanks!
 
 ### License
 
