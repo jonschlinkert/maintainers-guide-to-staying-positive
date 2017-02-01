@@ -209,6 +209,11 @@ You might also find these guides useful:
 - [Guide to Staying Productive](https://github.com/jonschlinkert/guide-to-staying-productive/)
 - [Idiomatic Contributing](https://github.com/jonschlinkert/idiomatic-contributing/)
 
+### Related
+
+- [Scaling Open Source Communities](https://krausefx.com/blog/scaling-open-source-communities): This is an excellent blog post from [@KrauseFx (Felix Krause)](https://github.com/KrauseFx), in which, among other things, he describes some of the challenges of maintaining growing projects. 
+- [Dear JavaScript](https://medium.com/@thejameskyle/dear-javascript-7e14ffcae36c#.4vw8sd1ib): Another great blog post from [@thejameskyle (James Kyle)](https://github.com/thejameskyle), that covers the loss of morale and disenfranchisement that can happen to maintainers when projects become very successful and some users become aggressively negative.
+
 ### Author
 
 **Jon Schlinkert**
