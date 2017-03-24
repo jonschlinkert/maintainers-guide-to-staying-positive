@@ -18,7 +18,9 @@ _(You might also be interested in the [Guide to Idiomatic Contributing](https://
 <br>
 <br>
 <br>
+
 ![separator](https://cloud.githubusercontent.com/assets/383994/19832229/f6b5922c-9deb-11e6-9cc5-fa09032bf8ef.png)
+
 <br>
 <br>
 <br>
@@ -50,7 +52,9 @@ I enjoy getting feedback from friends - or programmers I'm building friendships 
 <br>
 <br>
 <br>
+
 ![separator](https://cloud.githubusercontent.com/assets/383994/19832229/f6b5922c-9deb-11e6-9cc5-fa09032bf8ef.png)
+
 <br>
 <br>
 <br>
@@ -85,7 +89,9 @@ If you require clarification on this, or find that you need help understanding t
 <br>
 <br>
 <br>
+
 ![separator](https://cloud.githubusercontent.com/assets/383994/19832229/f6b5922c-9deb-11e6-9cc5-fa09032bf8ef.png)
+
 <br>
 <br>
 <br>
@@ -111,7 +117,9 @@ If you find yourself in need a morale boost, here are some tips for staying posi
 <br>
 <br>
 <br>
+
 ![separator](https://cloud.githubusercontent.com/assets/383994/19832229/f6b5922c-9deb-11e6-9cc5-fa09032bf8ef.png)
+
 <br>
 <br>
 <br>
@@ -127,7 +135,9 @@ Sometimes attitude isn't enough and we need to take action. Here are some things
 <br>
 <br>
 <br>
+
 ![separator](https://cloud.githubusercontent.com/assets/383994/19832229/f6b5922c-9deb-11e6-9cc5-fa09032bf8ef.png)
+
 <br>
 <br>
 <br>
@@ -165,7 +175,9 @@ Here are the times when the above things are okay:
 <br>
 <br>
 <br>
+
 ![separator](https://cloud.githubusercontent.com/assets/383994/19832229/f6b5922c-9deb-11e6-9cc5-fa09032bf8ef.png)
+
 <br>
 <br>
 <br>
@@ -177,7 +189,9 @@ Consider getting yourself [one of these](https://twitter.com/mark_essig/status/7
 <br>
 <br>
 <br>
+
 ![separator](https://cloud.githubusercontent.com/assets/383994/19832229/f6b5922c-9deb-11e6-9cc5-fa09032bf8ef.png)
+
 <br>
 <br>
 <br>
