@@ -27,7 +27,7 @@ _(You might also be interested in the [Guide to Idiomatic Contributing](https://
 
 ## Preamble
 
-This guide was written by me, [Jon Schlinkert](#author), programmer, public speaker and author of more than 1,100 code projects. I have published code projects in several different languages, but most are JavaScript. 60+ of my projects receive more than 1 million downloads/month, with the total exceeding [380 million downloads/month](https://gist.github.com/bcoe/dcc961b869bbf6685002). This brief guide is a distillation of my experiences as a maintainer. 
+This guide was written by me, [Jon Schlinkert](#author), programmer, public speaker and author of more than 1,100 code projects. I have published code projects in several different languages, but most are JavaScript. 60+ of my projects receive more than 1 million downloads/month, with the total exceeding [380 million downloads/month](https://gist.github.com/bcoe/dcc961b869bbf6685002). This brief guide is a distillation of my experiences as a maintainer.
 
 If you find this useful (and I hope you do!), please consider following me on [github](https://github.com/jonschlinkert) or [twitter](http://twitter.com/jonschlinkert) to receive updates about this and other projects I maintain.
 
@@ -37,7 +37,7 @@ You might also be interested in [other guides I've written](#other-guides).
 
 As it relates to open source programming, this is my own personal reference to help me stay positive when I'm having a bad day, or for whatever reason it's more difficult than usual to stay objective.
 
-Whether it's due to a bad decision I've made myself, or I'm reacting to unnecessarily harsh or negative comments made by a user, I thought it would be nice to have a guide to help me re-center when I'm not at my best. Maybe others will find this useful too. 
+Whether it's due to a bad decision I've made myself, or I'm reacting to unnecessarily harsh or negative comments made by a user, I thought it would be nice to have a guide to help me re-center when I'm not at my best. Maybe others will find this useful too.
 
 ### Why did I write this?
 
@@ -45,7 +45,7 @@ Whether it's due to a bad decision I've made myself, or I'm reacting to unnecess
 
 I really, honestly love programming. So much so that I look forward to getting out of bed every morning so that I can start writing code. I'm a coffee-drinker, and sometimes I even start coding before I make my coffee or get breakfast. If you drink coffee too, you'll know that this says a lot.
 
-I also love collaborating, exchanging ideas, learning better and faster ways to accomplish things that I'm already familiar with or, even better, learning completely new things that broaden my horizons as a developer or person. 
+I also love collaborating, exchanging ideas, learning better and faster ways to accomplish things that I'm already familiar with or, even better, learning completely new things that broaden my horizons as a developer or person.
 
 I enjoy getting feedback from friends - or programmers I'm building friendships with on GitHub, hearing their thoughts about my code and what I could have improved. Mistakes I made, or how something could be optimized. I believe this is one of the fastest ways to improve. Not to mention, it's a great way to build lasting relationships.
 
@@ -61,20 +61,20 @@ I enjoy getting feedback from friends - or programmers I'm building friendships 
 
 ## Nothing Fails Like Success
 
-I learned this concept from reading books by Stephen R. Covey, probably [The Seven Habits of Highly Effective People](https://www.amazon.com/dp/B01069X4H0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1). 
+I learned this concept from reading books by Stephen R. Covey, probably [The Seven Habits of Highly Effective People](https://www.amazon.com/dp/B01069X4H0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1).
 
-In a nutshell, this means that sometimes success comes at a price. For example, it's not unusual for a project to get harder to maintain as it grows in popularity: 
+In a nutshell, this means that sometimes success comes at a price. For example, it's not unusual for a project to get harder to maintain as it grows in popularity:
 
 - More bugs and edge cases crop up
 - More issues are created
-- Users want more features 
+- Users want more features
 - More detailed documentation is needed
 - Protocols and conventions that were "nice-to-have" before, are now 100% necessary
 - Your "breathing room" for mistakes gets smaller (no one wants to make mistakes, but it's even worse when you get berated for it by a disgruntled user)
 
-Of course, this is not always the case, but when it does happen it can be difficult to keep up with. 
+Of course, this is not always the case, but when it does happen it can be difficult to keep up with.
 
-IMHO, these things are all fine and should be expected. They come with the territory of programming and maintaining open source projects. From that standpoint my typical reaction to most problems is: "get over it". 
+IMHO, these things are all fine and should be expected. They come with the territory of programming and maintaining open source projects. From that standpoint my typical reaction to most problems is: "get over it".
 
 But what shouldn't come with the territory - and no maintainer should have to lose sleep over - is dealing with trolls and negative comments from users who only seem to want to beat the maintainers into submission, while showing no intent of helping to improve the project itself. This isn't programming, or maintaining, it's conflict resolution and PR, and it can be exhausting.
 
@@ -103,9 +103,9 @@ If you find yourself in need a morale boost, here are some tips for staying posi
 ### Do
 
 1. **Focus on what you want**: Be positive. When you focus on _what you don't want_, you tend to attract what you don't want. Focus on what you want, and you will get what you want.
-1. **Make lemons from lemonade**: look for the best, most optimistic viewpoint possible, no matter how negative the situation
-1. **Pace yourself**: If something happens that makes you want to scream from the top of your lungs, just take a step back, breath, and give yourself time to think about it. 
-1. **Do research**: A good way to boost your own morale is to get a grip on the situation. Do some research to learn about what's causing the problems you're dealing with to regain control and find ways to resolve it. 
+1. **Make lemons into lemonade**: look for the best, most optimistic viewpoint possible, no matter how negative the situation
+1. **Pace yourself**: If something happens that makes you want to scream from the top of your lungs, just take a step back, breath, and give yourself time to think about it.
+1. **Do research**: A good way to boost your own morale is to get a grip on the situation. Do some research to learn about what's causing the problems you're dealing with to regain control and find ways to resolve it.
 1. **Add levity**: Be careful not to come across as flippant or insincere. But sometimes it helps to just lighten the mood with a smile or nice comment.
 
 ### Don't
@@ -128,8 +128,8 @@ If you find yourself in need a morale boost, here are some tips for staying posi
 
 Sometimes attitude isn't enough and we need to take action. Here are some things that, while extreme, are sometimes necessary in order to keep a positive outlook:
 
-1. **Block negative users**: When you find yourself repeatedly dealing with a troll, there is no shame in permanently shedding the negativity by blocking the user completely. Moreover, you are under no obligation to explain yourself to the user. 
-1. **Delete inappropriate comments**: If a comment is antagonistic, disparaging to maintainers, distracts from the actual issue at hand, or otherwise does nothing to further progress on an issue, it goes without saying that the comment should be deleted. There is no contract, written or otherwise, that obligates you to retain comments like this. Whatever sense of integrity you feel you might lose from deleting the comment should be regained by thinking about the impact the comment has on your community - and the spirit of collaboration - as a whole. 
+1. **Block negative users**: When you find yourself repeatedly dealing with a troll, there is no shame in permanently shedding the negativity by blocking the user completely. Moreover, you are under no obligation to explain yourself to the user.
+1. **Delete inappropriate comments**: If a comment is antagonistic, disparaging to maintainers, distracts from the actual issue at hand, or otherwise does nothing to further progress on an issue, it goes without saying that the comment should be deleted. There is no contract, written or otherwise, that obligates you to retain comments like this. Whatever sense of integrity you feel you might lose from deleting the comment should be regained by thinking about the impact the comment has on your community - and the spirit of collaboration - as a whole.
 1. **Move on**: Don't linger on negative things. Stay productive and get refocused on things that are positive at best, or at least neutral if necessary.
 
 <br>
@@ -159,10 +159,10 @@ Now, we can take this information and do with it what we want. If you absolutely
 - fork the project and maintain it yourself
 - create your own library (and of course be sure to give proper attribution if you base your code on another library)
 
-If you don't have the time, knowledge, or inclination to do either of those things, unfortunately, that's just too bad. It's your problem, not the maintainers. The sooner you get over this, the happier and more productive everyone will be. Under no circumstances is it acceptable to berate a project's maintainers because you aren't getting what you want. 
+If you don't have the time, knowledge, or inclination to do either of those things, unfortunately, that's just too bad. It's your problem, not the maintainers. The sooner you get over this, the happier and more productive everyone will be. Under no circumstances is it acceptable to berate a project's maintainers because you aren't getting what you want.
 
 - It's not okay to "call them out" for taking too long
-- It's not okay to point to other issues that aren't being resolved, "just to make your point". This just adds insult to injury. 
+- It's not okay to point to other issues that aren't being resolved, "just to make your point". This just adds insult to injury.
 - It's not okay to sling personal insults when you feel like you're being ignored
 
 **Exceptions to the rule**
@@ -226,7 +226,7 @@ You might also find these guides useful:
 
 ### Related
 
-- [Scaling Open Source Communities](https://krausefx.com/blog/scaling-open-source-communities): This is an excellent blog post from [@KrauseFx (Felix Krause)](https://github.com/KrauseFx), in which, among other things, he describes some of the challenges of maintaining growing projects. 
+- [Scaling Open Source Communities](https://krausefx.com/blog/scaling-open-source-communities): This is an excellent blog post from [@KrauseFx (Felix Krause)](https://github.com/KrauseFx), in which, among other things, he describes some of the challenges of maintaining growing projects.
 - [Dear JavaScript](https://medium.com/@thejameskyle/dear-javascript-7e14ffcae36c#.4vw8sd1ib): Another great blog post from [@thejameskyle (James Kyle)](https://github.com/thejameskyle), that covers the loss of morale and disenfranchisement that can happen to maintainers when projects become very successful and some users become aggressively negative.
 
 ### Author
