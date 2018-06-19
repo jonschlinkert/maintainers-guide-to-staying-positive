@@ -104,7 +104,7 @@ If you find yourself in need a morale boost, here are some tips for staying posi
 
 1. **Focus on what you want**: Be positive. When you focus on _what you don't want_, you tend to attract what you don't want. Focus on what you want, and you will get what you want.
 1. **Make lemons into lemonade**: look for the best, most optimistic viewpoint possible, no matter how negative the situation
-1. **Pace yourself**: If something happens that makes you want to scream from the top of your lungs, just take a step back, breath, and give yourself time to think about it.
+1. **Pace yourself**: If something happens that makes you want to scream from the top of your lungs, just take a step back, breathe, and give yourself time to think about it.
 1. **Do research**: A good way to boost your own morale is to get a grip on the situation. Do some research to learn about what's causing the problems you're dealing with to regain control and find ways to resolve it.
 1. **Add levity**: Be careful not to come across as flippant or insincere. But sometimes it helps to just lighten the mood with a smile or nice comment.
 
