@@ -227,7 +227,7 @@ You might also find these guides useful:
 ### Related
 
 - [Scaling Open Source Communities](https://krausefx.com/blog/scaling-open-source-communities): This is an excellent blog post from [@KrauseFx (Felix Krause)](https://github.com/KrauseFx), in which, among other things, he describes some of the challenges of maintaining growing projects.
-- [Dear JavaScript](https://medium.com/@thejameskyle/dear-javascript-7e14ffcae36c#.4vw8sd1ib): Another great blog post from [@thejameskyle (James Kyle)](https://github.com/thejameskyle), that covers the loss of morale and disenfranchisement that can happen to maintainers when projects become very successful and some users become aggressively negative.
+- [Dear JavaScript](https://jamie.build/dear-javascript.html): Another great blog post from [@thejameskyle (James Kyle)](https://github.com/thejameskyle), that covers the loss of morale and disenfranchisement that can happen to maintainers when projects become very successful and some users become aggressively negative.
 
 ### Author
 
