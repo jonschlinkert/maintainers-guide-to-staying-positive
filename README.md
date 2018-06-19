@@ -151,7 +151,7 @@ A mentor once said to me, "if I cannot help, I will at least _do no harm_". I no
 But if you find that you are so frustrated about a bug you're dealing with that you can barely see straight, and you want to make sure the project's maintainers understand what you're going through, consider the following:
 
 1. The (extreme) vast majority of open source projects are maintained by a single individual (I don't have stats on this, but I have a lot of experience in open source and I'd wager it's in the high 99th percentile. Big teams with lots of development resources are very, very few and far between)
-1. Based on the first point, it's easy to reason that the vast majority decisions made on the vast majority of open source projects are at the discretion of a single individual
+1. Based on the first point, it's easy to reason that the vast majority of decisions made on the vast majority of open source projects are at the discretion of a single individual
 1. Based on the previous points it easy to reason that innovation, bug fixes and other improvements on these projects will only happen when a single individual wants them to
 
 Now, we can take this information and do with it what we want. If you absolutely need something to be fixed, and it isn't getting fixed, you have options. The most obvious of which are:
