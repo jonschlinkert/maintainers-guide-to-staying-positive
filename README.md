@@ -104,7 +104,7 @@ If you find yourself in need a morale boost, here are some tips for staying posi
 
 1. **Focus on what you want**: Be positive. When you focus on _what you don't want_, you tend to attract what you don't want. Focus on what you want, and you will get what you want.
 1. **Make lemons into lemonade**: look for the best, most optimistic viewpoint possible, no matter how negative the situation
-1. **Pace yourself**: If something happens that makes you want to scream from the top of your lungs, just take a step back, breath, and give yourself time to think about it.
+1. **Pace yourself**: If something happens that makes you want to scream from the top of your lungs, just take a step back, breathe, and give yourself time to think about it.
 1. **Do research**: A good way to boost your own morale is to get a grip on the situation. Do some research to learn about what's causing the problems you're dealing with to regain control and find ways to resolve it.
 1. **Add levity**: Be careful not to come across as flippant or insincere. But sometimes it helps to just lighten the mood with a smile or nice comment.
 
@@ -151,7 +151,7 @@ A mentor once said to me, "if I cannot help, I will at least _do no harm_". I no
 But if you find that you are so frustrated about a bug you're dealing with that you can barely see straight, and you want to make sure the project's maintainers understand what you're going through, consider the following:
 
 1. The (extreme) vast majority of open source projects are maintained by a single individual (I don't have stats on this, but I have a lot of experience in open source and I'd wager it's in the high 99th percentile. Big teams with lots of development resources are very, very few and far between)
-1. Based on the first point, it's easy to reason that the vast majority decisions made on the vast majority of open source projects are at the discretion of a single individual
+1. Based on the first point, it's easy to reason that the vast majority of decisions made on the vast majority of open source projects are at the discretion of a single individual
 1. Based on the previous points it easy to reason that innovation, bug fixes and other improvements on these projects will only happen when a single individual wants them to
 
 Now, we can take this information and do with it what we want. If you absolutely need something to be fixed, and it isn't getting fixed, you have options. The most obvious of which are:
@@ -227,7 +227,7 @@ You might also find these guides useful:
 ### Related
 
 - [Scaling Open Source Communities](https://krausefx.com/blog/scaling-open-source-communities): This is an excellent blog post from [@KrauseFx (Felix Krause)](https://github.com/KrauseFx), in which, among other things, he describes some of the challenges of maintaining growing projects.
-- [Dear JavaScript](https://medium.com/@thejameskyle/dear-javascript-7e14ffcae36c#.4vw8sd1ib): Another great blog post from [@thejameskyle (James Kyle)](https://github.com/thejameskyle), that covers the loss of morale and disenfranchisement that can happen to maintainers when projects become very successful and some users become aggressively negative.
+- [Dear JavaScript](https://jamie.build/dear-javascript.html): Another great blog post from [@thejameskyle (James Kyle)](https://github.com/thejameskyle), that covers the loss of morale and disenfranchisement that can happen to maintainers when projects become very successful and some users become aggressively negative.
 
 ### Author
 
