@@ -98,12 +98,12 @@ If you require clarification on this, or find that you need help understanding t
 
 ## Do's and don'ts
 
-If you find yourself in need a morale boost, here are some tips for staying positive:
+If you find yourself in need of a morale boost, here are some tips for staying positive:
 
 ### Do
 
 1. **Focus on what you want**: Be positive. When you focus on _what you don't want_, you tend to attract what you don't want. Focus on what you want, and you will get what you want.
-1. **Make lemons into lemonade**: look for the best, most optimistic viewpoint possible, no matter how negative the situation
+1. **Make lemons into lemonade**: look for the best, most optimistic viewpoint possible, no matter how negative the situation.
 1. **Pace yourself**: If something happens that makes you want to scream from the top of your lungs, just take a step back, breathe, and give yourself time to think about it.
 1. **Do research**: A good way to boost your own morale is to get a grip on the situation. Do some research to learn about what's causing the problems you're dealing with to regain control and find ways to resolve it.
 1. **Add levity**: Be careful not to come across as flippant or insincere. But sometimes it helps to just lighten the mood with a smile or nice comment.
@@ -112,7 +112,7 @@ If you find yourself in need a morale boost, here are some tips for staying posi
 
 1. **Don't blow things out of proportion**: The sky isn't falling. Things are rarely, if ever, really as bad as they seem. Take a step back and get some perspective.
 1. **Don't let others determine how you feel**: You are in control of your own emotions and your own reactions. No one makes you feel a certain way. If you are feeling heated in response to something someone has said, take some time to reflect on the situation.
-1. **Don't comment until you're rational**: Sometimes it feels like you need to "put a fire out" before it spreads. Whether you need to respond to a troll, or respond to a flood of bug-related comments, don't say anything unless you can do it rationally. How does this tip help you stay positive? Even if you need to act quickly, saying something insensitive or inappropriate can only make things worse. Doing this will definitely not help you keep a positive attitude, and it won't help your teammates or contributors either.
+1. **Don't comment until you're rational**: Sometimes it feels like you need to "put a fire out" before it spreads. Whether you need to respond to a troll, or to a flood of bug-related comments, don't say anything unless you can do it rationally. How does this tip help you stay positive? Even if you need to act quickly, saying something insensitive or inappropriate can only make things worse. Doing this will definitely not help you keep a positive attitude, and it won't help your teammates or contributors either.
 
 <br>
 <br>
@@ -146,18 +146,18 @@ Sometimes attitude isn't enough and we need to take action. Here are some things
 
 This section is for those who just can't find a way to stay positive, and are having trouble keeping their negativity to themselves.
 
-A mentor once said to me, "if I cannot help, I will at least _do no harm_". I now try to live by this rule, and I suggest you do too. It's only practical. You don't have to be [half-Betazoid](https://en.wikipedia.org/wiki/Deanna_Troi) to understand that other people are more likely to go out of their way to help you when you're nice to them. After all, just because you experienced a bug doesn't mean that it's a crucial bug, or that it's urgent. Only the maintainers have the perspective to make this call. Good collaborators recognize this and do what they can to help - or stay out of the way if they can't.
+A mentor once said to me, "If I cannot help, I will at least _do no harm_". I now try to live by this rule, and I suggest you do too. It's only practical. You don't have to be [half-Betazoid](https://en.wikipedia.org/wiki/Deanna_Troi) to understand that other people are more likely to go out of their way to help you when you're nice to them. After all, just because you experienced a bug doesn't mean that it's a crucial bug, or that it's urgent. Only the maintainers have the perspective to make this call. Good collaborators recognize this and do what they can to help - or stay out of the way if they can't.
 
 But if you find that you are so frustrated about a bug you're dealing with that you can barely see straight, and you want to make sure the project's maintainers understand what you're going through, consider the following:
 
-1. The (extreme) vast majority of open source projects are maintained by a single individual (I don't have stats on this, but I have a lot of experience in open source and I'd wager it's in the high 99th percentile. Big teams with lots of development resources are very, very few and far between)
-1. Based on the first point, it's easy to reason that the vast majority of decisions made on the vast majority of open source projects are at the discretion of a single individual
-1. Based on the previous points it easy to reason that innovation, bug fixes and other improvements on these projects will only happen when a single individual wants them to
+1. The (extreme) vast majority of open source projects are maintained by a single individual (I don't have stats on this, but I have a lot of experience in open source and I'd wager it's in the high 99th percentile. Big teams with lots of development resources are very, very rare).
+1. Based on the first point, it's easy to reason that the vast majority of decisions made on the vast majority of open source projects are at the discretion of a single individual.
+1. Based on the previous points it easy to reason that innovation, bug fixes and other improvements on these projects will only happen when a single individual wants them to.
 
-Now, we can take this information and do with it what we want. If you absolutely need something to be fixed, and it isn't getting fixed, you have options. The most obvious of which are:
+Now, we can take this information and do what we want with it. If you absolutely need something to be fixed, and it isn't getting fixed, you have options. The most obvious of which are:
 
 - fork the project and maintain it yourself
-- create your own library (and of course be sure to give proper attribution if you base your code on another library)
+- create your own library (but be sure to give proper attribution if your code is based on another library)
 
 If you don't have the time, knowledge, or inclination to do either of those things, unfortunately, that's just too bad. It's your problem, not the maintainers. The sooner you get over this, the happier and more productive everyone will be. Under no circumstances is it acceptable to berate a project's maintainers because you aren't getting what you want.
 
