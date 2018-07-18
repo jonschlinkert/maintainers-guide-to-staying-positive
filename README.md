@@ -182,6 +182,44 @@ Here are the times when the above things are okay:
 <br>
 <br>
 
+## Use Negativity as a Test of Character
+
+To quote Mr. Kipling:
+
+> If you can bear to hear the truth you’ve spoken<br>
+> Twisted by knaves to make a trap for fools,<br>
+> Or watch the things you gave your life to, broken,<br>
+> And stoop and build ’em up with worn-out tools:<br>
+> If you can fill the unforgiving minute<br>
+> With sixty seconds’ worth of distance run,<br>
+> Yours is the Earth and everything that’s in it,
+
+If you can deal with the trolls, the negativity, the setbacks, the failures, and have the courage to start again, to fail again, then you'll embody the power of perseverance, and you'll carry that character with you in all other aspects of your life.
+
+<br>
+<br>
+<br>
+
+![separator](https://cloud.githubusercontent.com/assets/383994/19832229/f6b5922c-9deb-11e6-9cc5-fa09032bf8ef.png)
+
+<br>
+<br>
+<br>
+
+## Focus on what is _truly_ important
+
+There'll always be fakes, trolls and (real) imposters. Karma's a bitch, let her deal with them. What's most important are your family and close friends. Work hard for them - they are the only ones who will always appreciate you.
+
+<br>
+<br>
+<br>
+
+![separator](https://cloud.githubusercontent.com/assets/383994/19832229/f6b5922c-9deb-11e6-9cc5-fa09032bf8ef.png)
+
+<br>
+<br>
+<br>
+
 ## When all else fails
 
 Consider getting yourself [one of these](https://twitter.com/mark_essig/status/787832689487470596).
