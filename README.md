@@ -222,7 +222,7 @@ There'll always be fakes, trolls and (real) imposters. Karma's a bitch, let her 
 
 ## When all else fails
 
-Consider getting yourself [one of these](https://twitter.com/mark_essig/status/787832689487470596).
+Consider getting yourself [one of these](https://web.archive.org/web/20161017204855/https://twitter.com/mark_essig/status/787832689487470596).
 
 <br>
 <br>
