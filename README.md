@@ -27,7 +27,7 @@ _(You might also be interested in the [Guide to Idiomatic Contributing](https://
 
 ## Preamble
 
-This guide was written by me, [Jon Schlinkert](#author), programmer, public speaker and author of more than 1,100 code projects. I have published code projects in several different languages, but most are JavaScript. 60+ of my projects receive more than 1 million downloads/month, with the total exceeding [380 million downloads/month](https://gist.github.com/bcoe/dcc961b869bbf6685002). This brief guide is a distillation of my experiences as a maintainer.
+This guide was written by me, [Jon Schlinkert](#author), programmer, public speaker and author of more than 1,100 code projects. I have published code projects in several different languages, but most are JavaScript. 90+ of my projects receive more than 10 million downloads/month, with the total exceeding `3.9 billion downloads/month`. This brief guide is a distillation of my experiences as a maintainer.
 
 If you find this useful (and I hope you do!), please consider following me on [github](https://github.com/jonschlinkert) or [twitter](http://twitter.com/jonschlinkert) to receive updates about this and other projects I maintain.
 
